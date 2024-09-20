@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science with specific focus on creating insights from Energy data... and creating beautiful visualizations.
 - 💞️ I’m looking to collaborate on Upstream energy datasets.
 - 📫 You can reach me via email senijay@protonmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I started out as an architect, then transitioned into upstream energy!
 
 <!---
 senijames/senijames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
